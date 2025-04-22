@@ -14,3 +14,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroOwn&" alt="ShiroOwn" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiroOwn&show_icons=true&locale=en&layout=compact" alt="ShiroOwn" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShiroOwn" alt="ShiroOwn" /></a></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ShiroOwn/Shiro/raw/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ShiroOwn/Shiro/raw/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/ShiroOwn/Shiro/raw/refs/heads/output/github-snake.svg" />
+</picture>
