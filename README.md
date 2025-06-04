@@ -8,7 +8,7 @@
 - 💻 Developer with a passion for clean code and creative solutions  
 - 🌱 Currently exploring advanced C#, memory editing, and Node.js  
 - 🛠️ I enjoy building tools, bots, and custom Windows applications  
-- ✉️ Reach me at: [Discord](https://discord.com/users/252912912375480320)
+- ✉️ Reach me at: [Discord!](https://discord.com/users/252912912375480320)
 
 ---
 
