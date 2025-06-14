@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">I'm a passionate developer who loves building things and constantly learning new technologies.</p>
 
----  
+---   
 
 ## 🚀 About Me
 
