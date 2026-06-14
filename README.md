@@ -1,11 +1,11 @@
 <div align="center">
 
-# 🔗 myexistences
+# 🔗 rabbanyhmm
 
 > **This is a mirror stub.** The original repository lives on the main account.
 > Follow the link below to explore the full source code, issues, and history.
 
-[![View Original Repository](https://img.shields.io/badge/🚀%20View%20Original%20Repo-rabbanyhmm%2Fmyexistences-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabbanyhmm/myexistences)
+[![View Original Repository](https://img.shields.io/badge/🚀%20View%20Original%20Repo-rabbanyhmm%2Frabbanyhmm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabbanyhmm/rabbanyhmm)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 | Detail | Value |
 |---|---|
-| **Original Repo** | [rabbanyhmm/myexistences](https://github.com/rabbanyhmm/myexistences) |
+| **Original Repo** | [rabbanyhmm/rabbanyhmm](https://github.com/rabbanyhmm/rabbanyhmm) |
 | **Description** | No description provided. |
 | **Primary Language** | Not specified |
 | **Visibility** | 🌐 Public |
@@ -34,11 +34,11 @@
 
 | Action | Link |
 |---|---|
-| 📂 **Browse Code** | [Open on GitHub](https://github.com/rabbanyhmm/myexistences) |
-| 🐛 **Report Issues** | [Issues](https://github.com/rabbanyhmm/myexistences/issues) |
-| 🔀 **Pull Requests** | [PRs](https://github.com/rabbanyhmm/myexistences/pulls) |
-| 📦 **Releases** | [Releases](https://github.com/rabbanyhmm/myexistences/releases) |
-| 📖 **Wiki** | [Wiki](https://github.com/rabbanyhmm/myexistences/wiki) |
+| 📂 **Browse Code** | [Open on GitHub](https://github.com/rabbanyhmm/rabbanyhmm) |
+| 🐛 **Report Issues** | [Issues](https://github.com/rabbanyhmm/rabbanyhmm/issues) |
+| 🔀 **Pull Requests** | [PRs](https://github.com/rabbanyhmm/rabbanyhmm/pulls) |
+| 📦 **Releases** | [Releases](https://github.com/rabbanyhmm/rabbanyhmm/releases) |
+| 📖 **Wiki** | [Wiki](https://github.com/rabbanyhmm/rabbanyhmm/wiki) |
 
 </div>
 
@@ -46,11 +46,11 @@
 
 ## ℹ️ About This Mirror
 
-This repository is part of the **[myexistences](https://github.com/myexistences)** test account
+This repository is part of the **[rabbanyhmm](https://github.com/rabbanyhmm)** test account
 and serves purely as a **reference stub**. It does **not** contain source code.
 
 - The full project is maintained by **[@rabbanyhmm](https://github.com/rabbanyhmm)**
-- All contributions, issues, and discussions should be directed to the **[original repository](https://github.com/rabbanyhmm/myexistences)**
+- All contributions, issues, and discussions should be directed to the **[original repository](https://github.com/rabbanyhmm/rabbanyhmm)**
 - This stub was auto-generated on **2026-06-14** using a GitHub Mirror Tool
 
 ---
